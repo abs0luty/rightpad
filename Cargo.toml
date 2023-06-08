@@ -1,0 +1,13 @@
+[package]
+name = "rightpad-str"
+authors = ["abs0luty"]
+version = "6.6.6"
+edition = "2021"
+license = "MIT"
+description = "Obviously the second best crate (after `leftpad-str`) for the Rust programming language. The crate serves the only goal of implementing `rightpad` function."
+repository = "https://github.com/abs0luty/rightpad"
+documentation = "https://docs.rs/rightpad-str"
+keywords = ["string", "right", "right-pad", "str"]
+categories = ["string-formatting", "string-algorithms", "right-pad"]
+
+[dependencies]
